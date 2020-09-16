@@ -35,7 +35,7 @@ const Newsletter = () => {
             {newsletter.submitPlaceholder}
           </Button> */}
 
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="contact" method="POST" data-netlify="true" action="https://getform.io/f/c6b68730-1fba-4016-8ad0-2949c4508948">
           <p>
             <label>Your Name: <input type="text" name="name" /></label>   
           </p>
