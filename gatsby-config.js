@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
-        short_name: `starter`,
+        name: `shubhyog-online`,
+        short_name: `shubhyog`,
         start_url: `/`,
         background_color: `#ed64a6`,
         theme_color: `#ed64a6`,
