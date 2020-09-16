@@ -35,7 +35,9 @@ const Newsletter = () => {
             {newsletter.submitPlaceholder}
           </Button> */}
 
-        <form name="contact" method="POST" data-netlify="true" action="https://getform.io/f/c6b68730-1fba-4016-8ad0-2949c4508948">
+        <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="https://getform.io/f/c6b68730-1fba-4016-8ad0-2949c4508948">
+          <input type="hidden" name="bot-field" />
+          <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>Your Name: <input type="text" name="name" /></label>   
           </p>
