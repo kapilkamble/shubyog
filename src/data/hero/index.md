@@ -3,7 +3,7 @@ category: 'hero section'
 title: 'Yoga teacher and Meditation instructor'
 subtitle: 'Shubhangi'
 content: 'Hello,
-Let me introduce myself. My name is shubhangi, a certified Yoga teacher, Meditation Instructor and Reiki healer. I have been practising yoga for more than 9 year and conducting online Yoga and meditation classes. I live in Sydney and I conduct personal classes here. I provide customised meditation packages and take online Yoga classes around the world.'
+Let me introduce myself. My name is Shubhangi, a certified Yoga teacher, Meditation Instructor and Reiki healer. I have been practising Yoga for more than 9 years and conducting online Yoga and Meditation classes. I live in Sydney and I conduct personal classes here. I provide customised meditation packages and take online Yoga classes around the world.'
 linkTo: '/contact/'
 linkText: 'Contact me'
 ---
